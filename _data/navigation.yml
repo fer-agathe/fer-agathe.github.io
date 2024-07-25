@@ -4,13 +4,13 @@ main:
     url: /research/
 
   #- title: "Articles"
-  #  url: /articles/
-
-  #- title: "Talks"
-  #  url: /talks/    
+  #  url: /articles/  
 
   #- title: "Teaching"
   #  url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/  
     
   - title: "Projects"
     url: /projects/
