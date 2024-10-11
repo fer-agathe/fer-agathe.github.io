@@ -21,7 +21,7 @@ repository               : "fer-agathe/fer-agathe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_agathe_2.jpg"
+  avatar           : "profile_picture.jpg"
   name             : "Agathe Fernandes Machado"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics at UQAM"

@@ -3,3 +3,6 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+
+# Ignore .DS_Store files (macOS specific)
+.DS_Store
