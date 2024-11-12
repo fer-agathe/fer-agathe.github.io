@@ -17,6 +17,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "PhD Courses"
+    url: /classes/
     
   - title: "CV"
     url: /cv/
