@@ -10,6 +10,34 @@ author_profile: true
 <!-- Manually list your research articles -->
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/abs/2501.15549" target="_blank">Optimal Transport on Categorical Data for Counterfactuals using Compositional Data and Dirichlet Transport</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Arthur Charpentier, Ewen Gallic
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2025-01-26
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://openreview.net/pdf?id=TIy0QuWPuE" target="_blank">Post-Calibration Techniques: Balancing Calibration and Score Distribution Alignment</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Arthur Charpentier, Emmanuel Flachaire, Ewen Gallic, François Hu
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2024-11-27
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
     <a href="https://arxiv.org/abs/2408.03425" target="_blank">Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness</a>
   </h2>
 
