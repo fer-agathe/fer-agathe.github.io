@@ -10,6 +10,20 @@ author_profile: true
 <!-- Manually list your research articles -->
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/pdf/2503.09866" target="_blank">EquiPy: Sequential Fairness using Optimal Transport in Python</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Suzie Grondin, Philipp Ratz, Arthur Charpentier, François Hu
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2025-03-14
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
     <a href="https://arxiv.org/abs/2501.15549" target="_blank">Optimal Transport on Categorical Data for Counterfactuals using Compositional Data and Dirichlet Transport</a>
   </h2>
 
