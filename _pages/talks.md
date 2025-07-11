@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [Workshop Calibrating prediction uncertainty, statistics and machine learning perspectives], Isaac Newton Institute, Cambridge, presentation Beyond Calibration of Probabilistic Classifier Outputs — Date: 2025-06
+- [STATQAM Research Day](https://github.com/fer-agathe/statqam_research_day.git}{https://github.com/fer-agathe/statqam_research_day.git), Université du Québec à Montréal, Montréal, presentation on Assessing Counterfactual Fairness via (Marginally) Optimal Transport — Date: 2025-05
 - [Actuarial and Financial Mathematics Conference 2025](https://github.com/fer‑
 agathe/AFM_2025.git), AG Campus, Brussels, poster presentation on Predicting Unobserved Multi‑
 Class Sensitive Attributes: Enhancing Calibration with Nested Dichotomies for Fairness — Date: 2025-02-04

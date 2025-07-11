@@ -10,6 +10,34 @@ author_profile: true
 <!-- Manually list your research articles -->
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/abs/2506.13900" target="_blank">Beyond Shapley Values: Cooperative Games for the Interpretation of Machine Learning Models</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Marouane Il Idrissi, Agathe Fernandes Machado, Arthur Charpentier
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2025-06-16
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/abs/2505.13118" target="_blank">Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Marouane Il Idrissi, Agathe Fernandes Machado, Ewen Gallic, Arthur Charpentier
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2025-05-19
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
     <a href="https://arxiv.org/pdf/2503.09866" target="_blank">EquiPy: Sequential Fairness using Optimal Transport in Python</a>
   </h2>
 
