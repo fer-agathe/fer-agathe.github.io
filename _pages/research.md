@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Published Articles
+
 <!-- Manually list your research articles -->
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
@@ -20,7 +22,71 @@ author_profile: true
   <p class="archive__item-date">
     Date: 2025-06-16
   </p>
+
+  <p class="archive__item-conference">
+    Conference: Workshop on Explainable Artificial Intelligence (XAI) IJCAI 2025
+  </p>
+
 </div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://www.ijcai.org/proceedings/2025/0572.pdf" target="_blank">Optimal Transport on Categorical Data for Counterfactuals using Compositional Data and Dirichlet Transport</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Arthur Charpentier, Ewen Gallic
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2025-01-26
+  </p>
+
+  <p class="archive__item-conference">
+    Conference: IJCAI 2025
+  </p>
+
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34131" target="_blank">Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Arthur Charpentier, Ewen Gallic
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2024-08-06
+  </p>
+
+  <p class="archive__item-conference">
+    Conference: AAAI 2025
+  </p>
+
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://openreview.net/pdf?id=TIy0QuWPuE" target="_blank">Post-Calibration Techniques: Balancing Calibration and Score Distribution Alignment</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Agathe Fernandes Machado, Arthur Charpentier, Emmanuel Flachaire, Ewen Gallic, François Hu
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2024-11-27
+  </p>
+
+  <p class="archive__item-conference">
+    Conference: Workshop Bayesian and Decision Uncertainty (BDU) NeurIPS 2024
+  </p>
+
+</div>
+
+## Preprints
 
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
@@ -47,48 +113,6 @@ author_profile: true
 
   <p class="archive__item-date">
     Date: 2025-03-14
-  </p>
-</div>
-
-<div class="archive__item">
-  <h2 class="archive__item-title" itemprop="headline">
-    <a href="https://arxiv.org/abs/2501.15549" target="_blank">Optimal Transport on Categorical Data for Counterfactuals using Compositional Data and Dirichlet Transport</a>
-  </h2>
-
-  <p class="archive__item-authors">
-    Authors: Agathe Fernandes Machado, Arthur Charpentier, Ewen Gallic
-  </p>
-
-  <p class="archive__item-date">
-    Date: 2025-01-26
-  </p>
-</div>
-
-<div class="archive__item">
-  <h2 class="archive__item-title" itemprop="headline">
-    <a href="https://openreview.net/pdf?id=TIy0QuWPuE" target="_blank">Post-Calibration Techniques: Balancing Calibration and Score Distribution Alignment</a>
-  </h2>
-
-  <p class="archive__item-authors">
-    Authors: Agathe Fernandes Machado, Arthur Charpentier, Emmanuel Flachaire, Ewen Gallic, François Hu
-  </p>
-
-  <p class="archive__item-date">
-    Date: 2024-11-27
-  </p>
-</div>
-
-<div class="archive__item">
-  <h2 class="archive__item-title" itemprop="headline">
-    <a href="https://arxiv.org/abs/2408.03425" target="_blank">Sequential Conditional Transport on Probabilistic Graphs for Interpretable Counterfactual Fairness</a>
-  </h2>
-
-  <p class="archive__item-authors">
-    Authors: Agathe Fernandes Machado, Arthur Charpentier, Ewen Gallic
-  </p>
-
-  <p class="archive__item-date">
-    Date: 2024-08-06
   </p>
 </div>
 
@@ -133,4 +157,3 @@ author_profile: true
     Date: 2024-01-29
   </p>
 </div>
-

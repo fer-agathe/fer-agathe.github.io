@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "Talks, Conferences"
+title: "Talks (Conferences, Seminars)"
 permalink: /talks/
 author_profile: true
 ---
 
-- [Workshop Calibrating prediction uncertainty, statistics and machine learning perspectives], Isaac Newton Institute, Cambridge, presentation Beyond Calibration of Probabilistic Classifier Outputs — Date: 2025-06
-- [STATQAM Research Day](https://github.com/fer-agathe/statqam_research_day.git}{https://github.com/fer-agathe/statqam_research_day.git), Université du Québec à Montréal, Montréal, presentation on Assessing Counterfactual Fairness via (Marginally) Optimal Transport — Date: 2025-05
+- [Quantact Seminar on Actuarial and Financial Mathematics](http://quantact.uqam.ca), ULaval, Québec, presentation *Unveil Sources of Uncertainty in Machine Learning Models: Feature Contribution to Conformal Prediction Intervals* — Date: 2025-10
+- [CIRRELT Monthly Reading Group](https://www.cirrelt.ca), Polytechnique Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-10
+- PrivSec Days 2025 on Privacy and Security of Artificial Intelligence (AI), ETS, Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-09
+- [Doctoral Consortium ‑ 34th International Joint Conference on Artificial Intelligence IJCAI 2025](https://2025.ijcai.org/doctoral‑consortium‑program/), Montreal, presentation *Ensuring Reliable and Transparent Algorithmic Fairness through Optimal Transport and Uncertainty Quantification* — Date: 2025-08
+- [Actuarial and statistical summer seminar](https://github.com/TommyMastro/Seminaire_actu_stats_UQAM.git), Université du Québec à Montréal (UQAM), Montreal, presentation *EquiPy: A Python Package implementing Sequential Fairness with Optimal Transport* — Date: 2025-08
+- [Workshop Calibrating prediction uncertainty, statistics and machine learning perspectives](https://www.newton.ac.uk/event/rclw02/), Isaac Newton Institute, Cambridge, presentation *Beyond Calibration of Probabilistic Classifier Outputs* — Date: 2025-06
+- [STATQAM Research Day](https://github.com/fer-agathe/statqam_research_day.git}{https://github.com/fer-agathe/statqam_research_day.git), Université du Québec à Montréal, Montréal, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport* — Date: 2025-05
 - [Actuarial and Financial Mathematics Conference 2025](https://github.com/fer‑
-agathe/AFM_2025.git), AG Campus, Brussels, poster presentation on Predicting Unobserved Multi‑
-Class Sensitive Attributes: Enhancing Calibration with Nested Dichotomies for Fairness — Date: 2025-02-04
-- Workshop at Milliman France, Paris, presentation on Discrimination in Mortality Scores — Date: 2025-01-30
+agathe/AFM_2025.git), AG Campus, Brussels, poster presentation *Predicting Unobserved Multi‑
+Class Sensitive Attributes: Enhancing Calibration with Nested Dichotomies for Fairness* — Date: 2025-02-04
+- Workshop at Milliman France, Paris, presentation *Discrimination in Mortality Scores* — Date: 2025-01-30
 - Seminar PSPP EDF Lab Chatou, Paris, presentation of calibration works — Date: 2025-01-27
 - [NeurIPS 2024 Workshop on Bayesian Decision‑making and Uncertainty](https://github.com/fer-agathe/scores-classif-recalibration.git), Vancouver, poster presentation of the article on calibration [Post-Calibration Techniques: Balancing Calibration and Score Distribution Alignment](https://openreview.net/pdf?id=TIy0QuWPuE) — Date: 2024-12-14
 - Workshop [Seminario de Matemáticas Aplicadas](https://github.com/fer‑agathe/quantil_seminar.git), Quantil, Colombia, presentation of [EquiPy Python library](https://equilibration.github.io/equipy/) — Date: 2024-08-08
