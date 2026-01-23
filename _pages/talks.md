@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [UvA, SIAS Seminar](https://www.sias-uva.nl), University of Amsterdam, Netherlands, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport Theory* — Date: 2026-01
+- [QARMA Seminar](https://qarma.lis-lab.fr), University of Aix-Marseille, France, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport Theory* — Date: 2026-01
 - [Quantact Seminar on Actuarial and Financial Mathematics](http://quantact.uqam.ca), ULaval, Québec, presentation *Unveil Sources of Uncertainty in Machine Learning Models: Feature Contribution to Conformal Prediction Intervals* — Date: 2025-10
 - [CIRRELT Monthly Reading Group](https://www.cirrelt.ca), Polytechnique Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-10
 - PrivSec Days 2025 on Privacy and Security of Artificial Intelligence (AI), ETS, Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-09
