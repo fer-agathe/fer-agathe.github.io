@@ -90,6 +90,34 @@ author_profile: true
 
 <div class="archive__item">
   <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/abs/2603.15232" target="_blank">Decomposing Probabilistic Scores: Reliability, Information Loss and Uncertainty</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Arthur Charpentier, Agathe Fernandes Machado
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2026-03-16
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="https://arxiv.org/abs/2602.18870" target="_blank">Federated Measurement of Demographic Disparities from Quantile Sketches</a>
+  </h2>
+
+  <p class="archive__item-authors">
+    Authors: Arthur Charpentier, Agathe Fernandes Machado, Olivier Côté, François Hu
+  </p>
+
+  <p class="archive__item-date">
+    Date: 2026-02-21
+  </p>
+</div>
+
+<div class="archive__item">
+  <h2 class="archive__item-title" itemprop="headline">
     <a href="https://arxiv.org/abs/2505.13118" target="_blank">Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals</a>
   </h2>
 

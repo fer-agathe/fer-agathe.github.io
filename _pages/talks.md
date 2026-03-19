@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-- [UvA, SIAS Seminar](https://www.sias-uva.nl), University of Amsterdam, Netherlands, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport Theory* — Date: 2026-01
-- [QARMA Seminar](https://qarma.lis-lab.fr), University of Aix-Marseille, France, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport Theory* — Date: 2026-01
+- [Workshop When Uncertainty Quantification meets Causal Modelling and Inference](https://sites.google.com/view/causali-t-ai/events/when-uq-meets-causality), SCAI Paris, France, presentation *Causal Mediation Analysis via Sequential Transport to Assess Counterfactual Fairness* — Date: 2026-03
+- [Workshop AI in risk assessment and mitigation](https://icms.ac.uk/activities/workshop/ai_in_risk_assessment_mitigation/), ICMS & Bayes Centre, Edinburgh (Scotland), presentation *Measuring Fairness through Calibration in Insurance Scoring Algorithms*,  [slides](https://github.com/fer-agathe/calibration_fairness_insurance) — Date: 2026-03
+- [APSPP/SINCLAIR Seminar](https://sinclair-lab.com), EDF Lab Chatou, France, presentation *Unveil Sources of Uncertainty in Machine Learning Models : Feature Contribution to Conformal Prediction Intervals* — Date: 2026-02
+- [Econometrics and Big Data Seminar](https://www.amse-aixmarseille.fr/fr/evenements?event_type_level_1=1603&sort_bef_combine=event_date_tri_ASC) & [QARMA Seminar](https://qarma.lis-lab.fr), University of Aix-Marseille, France, presentation *Assessing Counterfactual Fairness via (Marginally) Optimal Transport* — Date: 2026-02
 - [Quantact Seminar on Actuarial and Financial Mathematics](http://quantact.uqam.ca), ULaval, Québec, presentation *Unveil Sources of Uncertainty in Machine Learning Models: Feature Contribution to Conformal Prediction Intervals* — Date: 2025-10
 - [CIRRELT Monthly Reading Group](https://www.cirrelt.ca), Polytechnique Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-10
 - PrivSec Days 2025 on Privacy and Security of Artificial Intelligence (AI), ETS, Montreal, presentation *Assessing Counterfactual Fairness via Optimal Transport Theory* — Date: 2025-09
