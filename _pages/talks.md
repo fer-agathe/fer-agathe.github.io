@@ -7,7 +7,7 @@ author_profile: true
 
 - UNSW Business School Workshop, UNSW Sydney, Australia, presentation *Enhancing Transparency of Insurance Pricing Models for Policyholders Using Counterfactual Explanation Techniques* — Date: 2026-06
 - Actuarial Studies Workshop, University of Melbourne (Department of Economics), Australia, presentation *EquiPy: A Python Package implementing Sequential Fairness
-with Optimal Transport* - Date: 2026-05
+with Optimal Transport* — Date: 2026-05
 - [Workshop When Uncertainty Quantification meets Causal Modelling and Inference](https://sites.google.com/view/causali-t-ai/events/when-uq-meets-causality), SCAI Paris, France, presentation *Causal Mediation Analysis via Sequential Transport to Assess Counterfactual Fairness* — Date: 2026-03
 - [Workshop AI in risk assessment and mitigation](https://icms.ac.uk/activities/workshop/ai_in_risk_assessment_mitigation/), ICMS & Bayes Centre, Edinburgh (Scotland), presentation *Measuring Fairness through Calibration in Insurance Scoring Algorithms*,  [slides](https://github.com/fer-agathe/calibration_fairness_insurance) — Date: 2026-03
 - [APSPP/SINCLAIR Seminar](https://sinclair-lab.com), EDF Lab Chatou, France, presentation *Unveil Sources of Uncertainty in Machine Learning Models : Feature Contribution to Conformal Prediction Intervals* — Date: 2026-02
